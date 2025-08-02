@@ -1,27 +1,27 @@
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sameed+Siddiqui;Frontend+Web+Specialist;Angular+%2F+Next.js+%2F+React+Expert;SEO+Strategist+%7C+UI+Engineer+%7C+Team+Collaborator;Pixel+Perfect+Designs+%7C+Clean+Code+Lover" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sameed+Siddiqui;Frontend+Web+Specialist;Angular+%2F+Next.js+%2F+React+Expert;SEO+Strategist+%7C+UI+Engineer+%7C+Team+Collaborator;WordPress+Developer+%7C+Clean+Code+Lover" alt="Typing animation" />
 </h1>
 
 <p align="center">
-  🎨 Frontend Developer | 🔍 SEO Expert | 🤝 Team Collaborator
+  🎨 Frontend Developer | 🚀 SEO-Conscious Coder | ⚙️ WordPress Customizer | 🤝 Team Collaborator
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎯 I'm a focused **Frontend Developer** with a deep understanding of **Angular**, **React**, **Next.js**, and modern web design principles.
+🎯 I'm a focused **Frontend Developer** with a deep understanding of **Angular**, **React**, **Next.js**, **WordPress**, and modern web design principles.
 
 🚀 I specialize in creating **high-performance**, **SEO-friendly**, and **accessible** interfaces that work great across devices.
 
-🛠️ With smooth collaboration across backend teams, I help bring full-stack products to life using **clean, scalable code**.
+🛠️ With smooth collaboration across backend teams, I help bring full-stack products to life using **clean, scalable code** and **CMS-powered platforms**.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Frameworks & Libraries | 🎨 Styling | ⚙️ Languages | 🌐 Tools
+### 💻 Frameworks & Libraries | 🎨 Styling | ⚙️ Languages | 🌐 Tools | 🧩 CMS
 
 <p align="center">
   <!-- Frontend Frameworks -->
@@ -44,6 +44,9 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+
+  <!-- CMS -->
+  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -54,7 +57,8 @@
 - 🧩 Create **modular** UI components with **Tailwind**, **Bootstrap**, and custom CSS
 - 🔍 Ensure **SEO best practices** with semantic HTML, performance tuning, and schema markup
 - 📱 Design for **mobile-first** and **accessibility**
-- 🧠 Collaborate smoothly with backend teams on **API integration**, **authentication**, and **CMS**
+- 🧠 Customize **WordPress themes & plugins** for performance, SEO, and client needs
+- 🔧 Collaborate smoothly with backend teams on **API integration**, **authentication**, and **CMS**
 - 🧪 Perform unit testing, code reviews, and performance audits
 
 ---
@@ -66,6 +70,7 @@
 - 📋 Structured content for better indexing
 - 🌐 Accessibility (ARIA, contrast, screen reader support)
 - 🔗 Clean internal linking and sitemap strategies
+- 🧠 WordPress SEO via plugins (RankMath, Yoast), schema, and semantic HTML
 
 ---
 
@@ -75,18 +80,18 @@
 - 🔄 Version control with Git & GitHub flow
 - 🛠️ Clear API contracts and consistent component libraries
 - 🧩 Communicates effectively with cross-functional teams
-- 🧪 Uses tools like Postman and Swagger for backend integration testing
+- 🧪 Uses tools like ThunderClient, Postman, and Swagger for backend integration testing
 
 ---
 
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:sameedsiddiqui.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/SameedSiddiqui" target="_blank">
+  <a href="mailto:sameedsiddiqui15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/SameedSiddiqui15" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/sameedsiddiqui" target="_blank">
+  <a href="https://www.linkedin.com/in/sameedsiddiqui15/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
@@ -100,6 +105,7 @@ I’m open to:
 - 👨‍💻 **Frontend Development Projects**
 - 🌐 **Remote Collaboration**
 - 🧪 **UI/UX Optimization**
+- 🧩 **WordPress Theme/Plugin Customization**
 - 🔍 **SEO Strategy Consulting**
 
 > “Frontend is not just about looks — it’s about performance, accessibility, and user delight.”
@@ -109,4 +115,3 @@ I’m open to:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
