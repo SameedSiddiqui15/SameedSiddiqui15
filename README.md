@@ -25,37 +25,9 @@
 
 <div align="center">
   <!-- Frontend Frameworks -->
-  <div style="
-    width: auto;
-    height: 32px;
-    background-image: url('https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge');
-    background-repeat: no-repeat;
-    background-size: contain;
-    pointer-events: none;
-    user-select: none;
-  ">
-  </div>
-  <!-- Angular -->
-<div style="display: inline-block; width: auto; height: 32px; background-image: url('https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge'); background-repeat: no-repeat; background-size: contain; pointer-events: none; user-select: none; margin-right: 5px;"></div>
-
-<!-- React -->
-<div style="display: inline-block; width: auto; height: 32px; background-image: url('https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge'); background-repeat: no-repeat; background-size: contain; pointer-events: none; user-select: none; margin-right: 5px;"></div>
-
-<!-- Next.js -->
-<div style="display: inline-block; width: auto; height: 32px; background-image: url('https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge'); background-repeat: no-repeat; background-size: contain; pointer-events: none; user-select: none; margin-right: 5px;"></div>
-
-<!-- TailwindCSS -->
-<div style="display: inline-block; width: auto; height: 32px; background-image: url('https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge'); background-repeat: no-repeat; background-size: contain; pointer-events: none; user-select: none; margin-right: 5px;"></div>
-
-<!-- Bootstrap -->
-<div style="display: inline-block; width: auto; height: 32px; background-image: url('https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge'); background-repeat: no-repeat; background-size: contain; pointer-events: none; user-select: none; margin-right: 5px;"></div>
-
-<!-- CSS3 -->
-<div style="display: inline-block; width: auto; height: 32px; background-image: url('https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge'); background-repeat: no-repeat; background-size: contain; pointer-events: none; user-select: none; margin-right: 5px;"></div>
-
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"  style="pointer-events: none; user-select: none;"  />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" style="pointer-events: none; user-select: none;"  />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" style="pointer-events: none; user-select: none;"  />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
 
   <!-- Styling -->
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
