@@ -23,11 +23,11 @@
 
 ### 💻 Frameworks & Libraries | 🎨 Styling | ⚙️ Languages | 🌐 Tools | 🧩 CMS
 
-<p align="center" style="pointer-events: none;">
+<p align="center">
   <!-- Frontend Frameworks -->
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" style="pointer-events: none;" />
 
   <!-- Styling -->
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
