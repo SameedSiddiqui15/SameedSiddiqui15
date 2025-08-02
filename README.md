@@ -25,6 +25,16 @@
 
 <div align="center">
   <!-- Frontend Frameworks -->
+  <div style="
+    width: auto;
+    height: 32px;
+    background-image: url('https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge');
+    background-repeat: no-repeat;
+    background-size: contain;
+    pointer-events: none;
+    user-select: none;
+  ">
+  </div>
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"  style="pointer-events: none; user-select: none;"  />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" style="pointer-events: none; user-select: none;"  />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" style="pointer-events: none; user-select: none;"  />
