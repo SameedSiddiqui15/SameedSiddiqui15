@@ -23,7 +23,7 @@
 
 ### 💻 Frameworks & Libraries | 🎨 Styling | ⚙️ Languages | 🌐 Tools | 🧩 CMS
 
-<p align="center">
+<p align="center" style="pointer-events: none;">
   <!-- Frontend Frameworks -->
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
