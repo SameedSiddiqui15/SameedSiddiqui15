@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-🎯 I'm a focused **Frontend Developer** with a deep understanding of **Angular**, **React**, **Next.js**, **WordPress**, and modern web design principles.
+🎯 I'm a focused **Frontend Developer** with a deep understanding of **Angular**, **React**, **Next.js**, **WordPress**, **Flutter**, and modern web design principles.
 
-🚀 I specialize in creating **high-performance**, **SEO-friendly**, and **accessible** interfaces that work great across devices.
+🚀 I specialize in creating **high-performance**, **SEO-friendly**, and **accessible** interfaces that work great across devices — from web browsers to mobile apps.
 
 🛠️ With smooth collaboration across backend teams, I help bring full-stack products to life using **clean, scalable code** and **CMS-powered platforms**.
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
 
   <!-- Styling -->
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
@@ -38,6 +39,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 
   <!-- Tools -->
@@ -54,12 +56,14 @@
 ## 🧑‍💻 What I Do
 
 - ⚙️ Build responsive **SPAs** using Angular, Next.js, and React
+- 📱 Design **mobile app frontends** with Flutter & Dart for smooth, cross-platform performance
 - 🧩 Create **modular** UI components with **Tailwind**, **Bootstrap**, and custom CSS
 - 🔍 Ensure **SEO best practices** with semantic HTML, performance tuning, and schema markup
 - 📱 Design for **mobile-first** and **accessibility**
 - 🧠 Customize **WordPress themes & plugins** for performance, SEO, and client needs
 - 🔧 Collaborate smoothly with backend teams on **API integration**, **authentication**, and **CMS**
 - 🧪 Perform unit testing, code reviews, and performance audits
+
 
 ---
 
