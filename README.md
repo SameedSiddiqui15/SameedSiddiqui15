@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  🎨 Frontend Developer | 🚀 SEO-Conscious Coder | ⚙️ WordPress Customizer | 🤝 Team Collaborator
+  🎨 Full-Stack Developer | 🚀 SEO-Conscious Coder | ⚙️ WordPress Customizer | 🤝 Team Collaborator
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎯 I'm a focused **Frontend Developer** with a deep understanding of **Angular**, **React**, **Next.js**, **WordPress**, **Flutter**, and modern web design principles.
+🎯 I'm a focused **Full-Stack Developer** with a deep understanding of **Angular**, **React**, **Next.js**, **WordPress**, **Flutter**, and modern web design principles.
 
 🚀 I specialize in creating **high-performance**, **SEO-friendly**, and **accessible** interfaces that work great across devices — from web browsers to mobile apps.
 
